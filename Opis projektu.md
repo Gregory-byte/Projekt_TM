@@ -1,8 +1,8 @@
 # Projekt_VU_Meter
 
-Uk≥ad ma za zadanie zapalaÊ poszczegÛlne diody - od zielonych do czerwonych, w zaleønoúci od wykrytego poziomu sgna≥u audio z wyjúcia laptopa.
+Uk≈Çad ma za zadanie zapalaƒá poszczeg√≥lne diody - od zielonych do czerwonych, w zale≈ºno≈õci od wykrytego poziomu sgna≈Çu audio z wyj≈õcia laptopa.
 
-Ma to na celu pokazanie poziomu wysterownia sygna≥u jaki mamy na wyjúciu jack 3,5mm w laptopie. Dzieki tej informacji jesteúmy w stanie tak dopasowaÊ sygna≥ wyjúciowy, aby podany sygna≥ adudio np. na pramap wzmacniacza nie by≥ przesterowany co zapobiegnie dalszemu zniekszta≥ceniu. sygna≥u.
+Ma to na celu pokazanie poziomu wysterownia sygna≈Çu jaki mamy na wyj≈õciu jack 3,5mm w laptopie. Dzieki tej informacji jeste≈õmy w stanie tak dopasowaƒá sygna≈Ç wyj≈õciowy, aby podany sygna≈Ç adudio np. na pramap wzmacniacza nie by≈Ç przesterowany co zapobiegnie dalszemu zniekszta≈Çceniu. sygna≈Çu.
 
 Things needed to make this LED vu meter using arduino:-
 
@@ -14,4 +14,9 @@ Things needed to make this LED vu meter using arduino:-
 6)  1x  10k potentiometer
 7)  1x  audio splitter (optional)
 8)  breadboard connectors
+
+Poni≈ºej zamieszczam link do swojego dysku google, gdzie znadujƒô siƒô kr√≥tki filmik przedstawiajacy dzia≈Çanie mojego uk≈Çadu.
+
+
+https://drive.google.com/file/d/1g1DYNkjh7ZzsLNGmBUaozhyz18oAGui6/view?usp=sharing
 
